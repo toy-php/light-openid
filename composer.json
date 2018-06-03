@@ -1,5 +1,5 @@
 {
-    "name": "itmages/light-openid",
+    "name": "toy-php/light-openid",
     "description": "An PHP 5 library for easy openid authentication. Works only as a consumer.",
     "authors": [
         {
